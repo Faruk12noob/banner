@@ -245,7 +245,7 @@ updatedw() {
 			clear && echo \"Update Success\" && echo -------------- && figlet Success && figlet \$(sed '1q;d' 'ver.cfg') && figlet Faruk Tech && echo Restart to apply changes
 		fi
 	else
-		git clone https://github.com/darkwarrior3/banner.git
+		https://github.com/Faruk12noob/banner
 		cd banner
 		prm sh
 		clear
