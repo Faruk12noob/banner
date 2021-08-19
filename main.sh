@@ -316,6 +316,5 @@ toilet Hossain
 sleep 2
 mdv README.md
 cd $pdir
-echo Subscribe to our YT channel FemurTech
-echo tinyurl.com/femurtech
+echo Subscribe to our YT channel FarukTech
 echo Restart to apply changes
