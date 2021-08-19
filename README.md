@@ -1,4 +1,5 @@
 Install the banner with this commands-
+
 apt update
 
 apt upgrade
@@ -13,4 +14,4 @@ bash main.sh
 
 
 To Uninstalling this tool-
-Run the script again to uninstall styling.
+Run the commands again to uninstall banner....
